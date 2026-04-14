@@ -78,6 +78,3 @@ The analysis shows that farming is not profitable in many cases due to high cult
 
 ---
 
-## 🙌 Author
-
-Ashwini Bendawade
